@@ -28,3 +28,31 @@ body {
     text-align: center;
     margin-top: 50px;
   }
+  h1 {
+    font-size: 56px;
+    color: #000;
+    font-family: 'Open Sans';
+    }
+h2 
+{
+    font-size: 36px;
+    color: rgb(11, 86, 129);
+    font-family: 'Open Sans';
+}
+p {
+    font-family: 'Arial';
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    line-height: 18px;
+    margin-bottom: 20px;
+    }
+#borde{
+    background-color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#borde1{
+    background-color: rgb(230, 208, 208);
+    
+    margin-bottom: 25px;
+}
